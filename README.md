@@ -36,7 +36,7 @@ Before using the script, ensure the following:
 2. **Prepare ligand files:**
    To convert ligand files from SDF format to PDBQT format using OpenBabel, run the following script:
    ```cmd
-   openbabel_convert.bat
+   obabel.bat
    ```
    Ensure the `.sdf` files are in the same directory as the script. The script processes all SDF files and generates corresponding `.pdbqt` files.
 
