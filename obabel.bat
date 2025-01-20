@@ -1,0 +1,1 @@
+for %%f in (*.sdf) do obabel "%%f" -O "%%~nf.pdbqt"
