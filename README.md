@@ -11,8 +11,8 @@ This repository provides a script designed to automate molecular docking for bul
 ## Prerequisites
 Before using the script, ensure the following:
 1. **Software**:
-   - A molecular docking tool installed (e.g., AutoDock, AutoDock Vina, etc.).
-   - Supporting tools for molecule preparation (e.g., OpenBabel).
+   - A molecular docking tool installed (AutoDock Vina).
+   - Supporting tools for molecule preparation (OpenBabel).
 2. **Environment**:
    - A Windows system (required for the provided `.bat` scripts).
    - Ensure the required executables are added to the system PATH.
