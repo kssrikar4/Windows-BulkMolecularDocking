@@ -52,7 +52,8 @@ Before using the script, ensure the following:
      set VINA_PATH="C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe"
      ```
    - **Receptor file:** Specify the receptor file in PDBQT format, which must be named `protein.pdbqt`.
-   - **Grid box configuration:** Example docking box parameters:
+   - **Grid box configuration:** This project includes a Python script (`gridsize.py`) that calculates the grid size of a PDB structure. Ensure that the PDB file path is correctly specified within the script before running it.
+   - Example docking box parameters:
      ```cmd
      set CENTER_X=0
      set CENTER_Y=18.68
