@@ -13,6 +13,7 @@ Before using the script, ensure the following:
 1. **Software**:
    - A molecular docking tool installed (AutoDock Vina).
    - Supporting tools for molecule preparation (OpenBabel).
+   - Python installed with NumPy.
 2. **Environment**:
    - A Windows system (required for the provided `.bat` scripts).
    - Ensure the required executables are added to the system PATH.
